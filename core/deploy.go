@@ -6,7 +6,7 @@ import (
 	"context"
 	"math/big"
 
-	"github.com/ChainSafeSystems/leth/logger"
+	"github.com/ChainSafe/leth/logger"
 
 	"github.com/ethereum/go-ethereum/ethclient"
 	"github.com/ethereum/go-ethereum/common"
