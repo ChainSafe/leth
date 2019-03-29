@@ -3,7 +3,7 @@ package migrations
 import (
 	"fmt"
 
-	"github.com/ChainSafeSystems/leth/core"
+	"github.com/ChainSafe/leth/core"
 )
 
 func Migrate() {

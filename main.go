@@ -11,10 +11,10 @@ import (
 	"encoding/json"
 	"io/ioutil"
 
-	"github.com/ChainSafeSystems/leth/core"
-	"github.com/ChainSafeSystems/leth/logger"
-	//"github.com/ChainSafeSystems/leth/test"
-	"github.com/ChainSafeSystems/leth/migrations"
+	"github.com/ChainSafe/leth/core"
+	"github.com/ChainSafe/leth/logger"
+	//"github.com/ChainSafe/leth/test"
+	"github.com/ChainSafe/leth/migrations"
 
 	//"github.com/ethereum/go-ethereum/ethclient"
 	//"github.com/ethereum/go-ethereum/accounts"

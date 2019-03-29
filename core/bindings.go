@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"path"
 
-	"github.com/ChainSafeSystems/leth/logger"
+	"github.com/ChainSafe/leth/logger"
 )
 
 func Bindings() (error) {

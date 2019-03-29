@@ -4,7 +4,7 @@ import (
 	"os"
 	"fmt"
 
-	"github.com/ChainSafeSystems/leth/logger"
+	"github.com/ChainSafe/leth/logger"
 )
 
 func PrepNetwork(network string) Network {

@@ -8,7 +8,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/ChainSafeSystems/leth/logger"
+	"github.com/ChainSafe/leth/logger"
 )
 
 func Compile() ([]string, error) {

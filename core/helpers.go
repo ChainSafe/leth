@@ -12,7 +12,7 @@ import (
 	"github.com/ethereum/go-ethereum/accounts"
 	"github.com/ethereum/go-ethereum/accounts/keystore"
 
-	"github.com/ChainSafeSystems/leth/logger"
+	"github.com/ChainSafe/leth/logger"
 )
 
 func ReadConfig() ([]byte, error) {

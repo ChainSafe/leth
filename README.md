@@ -26,12 +26,12 @@ godep go install ./cmd/abigen
 
 # get 
 
-`go get github.com/ChainSafeSystems/leth`
+`go get github.com/ChainSafe/leth`
 
 # usage
 
 ```
-cd $GOPATH/src/github.com/ChainSafeSystems/leth
+cd $GOPATH/src/github.com/ChainSafe/leth
 go build
 go install
 ```
